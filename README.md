@@ -1,5 +1,6 @@
 # hello-world
 thinknetica.teachbase
 
+hiya everyone!
 
-Just another repository
+I am trying to understand all about JS, Frontend developing amd actually life!)
